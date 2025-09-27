@@ -1,0 +1,12 @@
+# Algorithm Interview Practice Dependencies
+
+# Testing framework
+pytest>=7.0.0
+
+# For performance benchmarking (optional)
+matplotlib>=3.5.0
+numpy>=1.21.0
+
+# Code formatting and linting (optional but recommended)
+black>=22.0.0
+flake8>=4.0.0
